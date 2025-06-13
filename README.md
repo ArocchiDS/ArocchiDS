@@ -7,8 +7,6 @@ I've expanded my expertise with practical projects, including the development of
 
 Previously, I gained experience as a Full Stack Developer, working with technologies such as HTML, CSS, Bootstrap, ReactJS, JavaScript, TypeScript, Node.js, and Postman, which provides me with a solid foundation in understanding software architectures."
 
-### 😄 Pronouns
-He/him
 
 ### 🌱 What do I do and What have I done? 
 
