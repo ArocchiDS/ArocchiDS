@@ -1,7 +1,6 @@
 # Hi! I'm Alessandro Rocchi 👋
 
 A Computer Science graduate from the University of Milan-Bicocca, I've developed a strong passion for Data Science, particularly in clinical data analysis with the goal of identifying and predicting future medical risks in patients.
-
 My academic journey culminated in a thesis focused on the study and application of unsupervised clustering algorithms, with a specific emphasis on DBSCAN, for the analysis of healthcare data from Electronic Health Records (EHRs).
 I've expanded my expertise with practical projects, including the development of a product recommendation system based on clustering algorithms (KNN) and user-based/item-based approaches. Furthermore, I developed a Business Intelligence project for analyzing an S&P 500 stock portfolio, covering returns, correlations, price forecasting with models like ARIMA, Alpha and Beta calculation, Exposure to Fama-French risks, CAPM, and CPPI/Equal Weights strategies.
 Previously, I gained experience as a Full Stack Developer, working with technologies such as HTML, CSS, Bootstrap, ReactJS, JavaScript, TypeScript, Node.js, and Postman, which provides me with a solid foundation in understanding software architectures."
