@@ -20,18 +20,19 @@ Previously, I gained experience as a Full Stack Developer, working with technolo
 - Global Ambassador at WomenTech Network, Auth0, Girls who Code and GirlUp Foundation
 
 
+### 🔎 What are my goals and what I'm looking for?
+
+Currently, I am actively seeking a Data Science Internship in Madrid to gain practical work experience in data science and related fields (Data Analyst, Data Engineer, Business Intelligence). My aim is to apply all the knowledge acquired during my university studies and continue my professional and personal growth."
+I am eager to absorb knowledge, gain practical experience, and collaborate to build impactful data-driven products and solutions. I'm excited to explore opportunities where I can contribute my skills.
+
 ### ⚡ One line that describes me best? 
-An ambitious girl who loves to cook fries, day dream at nights and sometime codes too.😉😉
+
+A driven and curious individual, consistently focused on continuous improvement and acquiring new skills, coupled with a strong empathetic approach.
 
 ### 📫 How to reach me?
-- [Twitter](https://twitter.com/garingh128) 
-- [LinkedIn](https://www.linkedin.com/in/garima-singh-34042a177/) 
-- [My personal portfolio](http://garimasingh.me) 
-- My personal blog- [Garima Codes](https://garimasingh.netlify.app/)
-- [Medium](https://medium.com/@garingh128)
-- [Sourcerer](https://sourcerer.io/garimasingh128)
 
-You can ask me anything (within reason). I am looking forward to absorb knowledge🧠,gain experience 🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
+- [LinkedIn](www.linkedin.com/in/arocchids)
+
 
 
 ***
